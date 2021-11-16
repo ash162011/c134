@@ -1,0 +1,25 @@
+body{
+     font-family: "Fredoka One";
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+padding: 20px;
+}
+
+#status, #number_of_objects
+{
+border-radius: 20px;
+font-size: 25px;
+width: 30%;
+padding: 10px;
+}
+
+canvas{
+     box-shadow: 10px 10px 10px  grey;
+     border:2px black;
+}
